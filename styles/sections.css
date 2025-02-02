@@ -1,8 +1,10 @@
 #about {
     width: 100%;
-    height: 500px;
+    height: 900px;
     background-color: var(--gray-600);
   }
+
+  /* Footer */
 
   footer {
     width: 100%;
@@ -15,4 +17,10 @@
     & span {
         color: var(--red)
     }
+  }
+
+  .btn-download-cv {
+    position: fixed;
+    top: 40px;
+    right: 60px;
   }
