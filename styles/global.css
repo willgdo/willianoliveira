@@ -27,7 +27,7 @@ body {
   background-color: var(--gray-200);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 720px) {
   :root {
     --title-lg: 600 2rem/1.2 "Asap", sans-serif;
     --title-md: 600 1.5rem/1.2 "Inconsolata", sans-serif;
